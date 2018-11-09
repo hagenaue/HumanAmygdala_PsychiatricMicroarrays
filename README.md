@@ -18,7 +18,7 @@ Brief Description of the files:
 
     A) IlluminaHT12v3_AMY_Preprocessing.pptx - written by Dr. Megan Hagenauer circa 2012-2013
 
-3) The Illumina LCM-dissected amygdala analysis code files: - written by Dr. Megan Hagenauer circa 2013-2014, some additional analyses 2015-2017
+3) The Illumina LCM-dissected amygdala analysis code files: - written by Dr. Megan Hagenauer circa 2013-2014, some additional analyses 2015-2017. You may note that the code is annotated with instructions - I originally wrote a generalized version of the code for all 10 subnuclei with the intention that someone else would run the analyses, but then ended up just running all of the analysis myself anyway.
   
     A) LCM_AMY_AAA_Preprocessing.R
   
