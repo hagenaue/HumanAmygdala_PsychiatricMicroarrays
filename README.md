@@ -49,3 +49,5 @@ Brief Description of the files:
     A) ComparingAMY_qRTPCR_vs_Microarray.R - written by Dr. Megan Hagenauer circa 2018
   
     B) ComparingAMYDatasets_forAMYPaper.R - written by Alek Pankonin and Dr. Megan Hagenauer circa 2016-2018
+    
+    C) IlluminaAndAffyIncBarnesNarayan.R - written by Alek Pankonin circa 2016 - this code is not really analysis code for amygdala datasets in particular, just a general meta-query to draw results from different Pritzker datasets and join them together. It is referenced by ComparingAMYDatasets_forAMYPaper.R.
