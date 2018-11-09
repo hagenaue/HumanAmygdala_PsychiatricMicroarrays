@@ -22,7 +22,7 @@ Brief Description of the files:
   
     A) LCM_AMY_AAA_Preprocessing.R
   
-    B) LCM_AMY_AB_Preprocessing.R
+    B) LCM_AMY_AB_Preprocessing.R - Note: starting after line 2000, there is some code for analyzing results from all 10 subnuclei (not just the AB)
   
     C) LCM_AMY_AHA_Preprocessing.R
   
