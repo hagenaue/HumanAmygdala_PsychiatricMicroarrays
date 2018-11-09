@@ -1,6 +1,7 @@
 # HumanAmygdala_PsychiatricMicroarrays
 
 This is the code release to accompany the submission of the manuscript "Transcriptional profiling of ten subnuclei of the human amygdala in Major Depressive Disorder" by Sharma, Hagenauer et al.
+
 Although it is released under my github account, the code was written by several individuals - Dr. Jun Z. Li, Dr. Peter Blandino, Dr. Elyse Aurbach, Alek Pankonin, and myself. The analysis of the different datasets was performed between the years 2008-2018, and the code used to perform the analysis was written with single usage in mind - I apologize pre-emptively that it is neither well-annotated nor structured to easily allow for rapid reproducibility (the earliest code documentation is actually in .docx and .pptx format which also includes example output instead of a true code document!). There are also additional analyses included in the code documentation that were not included in the manuscript due to space/focus (e.g., additional brain regions and follow-up and control analyses). If you have questions, please ask - I am happy to provide more information!
 
 Brief Description of the files:
