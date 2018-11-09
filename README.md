@@ -8,9 +8,9 @@ Brief Description of the files:
 
 1) The Illumina Ref-8 macrodissected tissue analysis code files:
 
-    A) IlluminaRef8_step1_QualityControl_Preprocessing_Freeze3.docx - written by Dr. Jun Z. Li circa 2008
+    A) IlluminaRef8_step1_QualityControl_Preprocessing_Freeze3.docx - written by Dr. Jun Z. Li circa 2008 - only some of this output was used for this paper
   
-    B) IlluminaRef8_step2_QualityControl_011215.R - written by Dr. Peter Blandino circa 2014-2015
+    B) IlluminaRef8_step2_QualityControl_011215.R - written by Dr. Peter Blandino circa 2014-2015 - only some of this output was used for this paper
   
     C) IlluminaRef8_step3_AMY_VariableDiagnostics_Regression_20161013.R - written by Dr. Elyse Aurbach circa 2016
 
